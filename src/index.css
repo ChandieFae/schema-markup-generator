@@ -1,0 +1,11 @@
+schema-ranker/
+├── 📁 public/
+│   └── index.html
+├── 📁 src/
+│   ├── SchemaGenerator.jsx
+│   ├── main.jsx
+│   └── index.css
+├── .gitignore
+├── package.json
+├── vite.config.js
+└── README.md
