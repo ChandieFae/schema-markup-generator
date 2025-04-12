@@ -1,4 +1,4 @@
-# Schema Markup Generator
+# Schema Markup Generator and Seo Local + Serp Ranking
 
 React + Vite app for building structured data in JSON-LD format.
 
@@ -13,3 +13,6 @@ React + Vite app for building structured data in JSON-LD format.
 ```bash
 npm install
 npm run dev
+
+
+By: ChandieFae
